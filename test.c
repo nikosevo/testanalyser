@@ -9,6 +9,9 @@ int main(){
 
     *p = 4;
 
+    int = asdf;
+
+    for(;;;){
 
     if(i < 3){
         return;
